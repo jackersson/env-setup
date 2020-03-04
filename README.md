@@ -1,2 +1,6 @@
-# env-setup
-Useful scripts, docker containers.
+## env-setup
+- Project contains useful scripts for environment setup, docker containers, etc...
+
+### Docker Containers
+#### Nvidia Gstreamer
+
