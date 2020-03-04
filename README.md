@@ -3,5 +3,5 @@
 
 ### Docker Containers
 #### [Nvidia Gstreamer](https://github.com/jackersson/env-setup/tree/master/gst-nvidia-docker)
-- nvenv, nvdec gstreamer plugins
+- [nvenv](https://gstreamer.freedesktop.org/documentation/nvenc/index.html?gi-language=c), [nvdec](https://gstreamer.freedesktop.org/documentation/nvdec/index.html?gi-language=c) gstreamer plugins
 
