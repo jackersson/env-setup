@@ -18,6 +18,7 @@ RUN apt-get update && apt-get -y --no-install-recommends install \
 
 RUN apt-get -y --no-install-recommends install \
     git \
+    cmake \
     autoconf \
     automake \
     libtool \
